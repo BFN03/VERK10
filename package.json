@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "buld-css": "tailwindcss build src/styles.css -o public/styles.css "
+    "buld-css": "tailwindcss build src/styles.css -o public/styles.css ",
+    "browser-sync": ""
   },
   "keywords": [],
   "author": "",
